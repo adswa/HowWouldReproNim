@@ -1,0 +1,12 @@
+
+.DS_Store
+
+# Ignore files generated during build
+
+venv/
+
+*.egg-info
+
+__pycache__
+
+*.swp
